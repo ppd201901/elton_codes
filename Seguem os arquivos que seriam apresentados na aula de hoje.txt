@@ -1,0 +1,13 @@
+Uma demonstração simples de IPC com uso de Threads (multi-Threads) e Sockes.
+
+- Iniciar o servidor (ServerPYTHON.py)
+- Iniciar o cliente (ClienteJAVA.java)
+
+verificar o envio de mensagens Cliente p/ Servidor;
+
+- Iniciar vários clientes e comunicar-se com o Servidor Alternadamente.
+
+
+
+---------------------
+-> É uma implementação inicial, o próximo passo será retornar mensagens do Servidor para um ou vários Clientes.
